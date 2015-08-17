@@ -10,6 +10,7 @@ public class Score : MonoBehaviour
 	{
 		// Set the score text.
 		GetComponent<GUIText>().text = " Score: " + score * 1;
+		PlayerPrefs.SetInt("Player Score", score);
 	}
 
 }

@@ -31,8 +31,8 @@ public class Remover : MonoBehaviour
 	IEnumerator ReloadGame()
 	{			
 		// ... pause briefly
-		//float fadeTime = GameObject.Find("_GM").GetComponent<Fading>().BeginFade(1);
-		yield return new WaitForSeconds(3);
+		float fadeTime = GameObject.Find("_GM").GetComponent<Fading>().BeginFade(1);
+		yield return new WaitForSeconds(fadeTime);
 		// ... and then reload the level.
 		Application.LoadLevel(Application.loadedLevel);
 	}

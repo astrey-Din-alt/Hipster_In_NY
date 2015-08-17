@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 62a64533f0708ab469e3023365526908
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walk_1
+    21300002: walk_1_0
+    21300004: walk_1_1
+    21300006: walk_1_2
+    21300008: walk_1_3
+    21300010: walk_1_4
+    21300012: walk_1_6
+    21300014: walk_1_7
+    21300016: walk_1_8
+    21300018: walk_1_9
+    21300020: walk_1_10
+    21300022: walk_1_12
+    21300024: walk_1_13
+    21300026: walk_1_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walk_1_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1398
+        width: 333
+        height: 579
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1398
+        width: 315
+        height: 577
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_2
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1397
+        width: 302
+        height: 580
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_3
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1398
+        width: 289
+        height: 579
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_4
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1398
+        width: 305
+        height: 579
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 776
+        width: 314
+        height: 579
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_7
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 772
+        width: 333
+        height: 582
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_8
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 772
+        width: 333
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_9
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 772
+        width: 345
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_10
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 779
+        width: 350
+        height: 573
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 154
+        width: 341
+        height: 580
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 154
+        width: 336
+        height: 580
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_1_14
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 157
+        width: 337
+        height: 580
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

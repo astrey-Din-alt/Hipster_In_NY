@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 9b4806042df400e4aba04b44e2a39554
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: doggy_final_0
+    21300002: doggy_final_1
+    21300004: doggy_final_2
+    21300006: doggy_final_3
+    21300008: doggy_final_4
+    21300010: doggy_final_5
+    21300012: doggy_final_6
+    21300014: doggy_final_7
+    21300016: doggy_final_8
+    21300018: doggy_final_9
+    21300020: doggy_final_10
+    21300022: doggy_final_11
+    21300024: doggy_final_12
+    21300026: doggy_final_13
+    21300028: doggy_final_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: doggy_final_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 551
+        width: 353
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 551
+        width: 357
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_2
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 551
+        width: 364
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_3
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 548
+        width: 365
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_4
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 548
+        width: 366
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_5
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 548
+        width: 366
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_6
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 548
+        width: 363
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 308
+        width: 352
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 471
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 308
+        width: 354
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_11
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 305
+        width: 365
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_12
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 308
+        width: 365
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_13
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 308
+        width: 364
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doggy_final_14
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 311
+        width: 370
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
